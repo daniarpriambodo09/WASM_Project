@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "label": "TOPIC 01",
+    "keywords": [
+      "purbaya",
+      "rakyat",
+      "sri",
+      "mulyani",
+      "pajak",
+      "pro",
+      "ekonomi",
+      "negara",
+      "mau",
+      "tim"
+    ],
+    "count": 681
+  },
+  {
+    "id": 2,
+    "label": "TOPIC 02",
+    "keywords": [
+      "purbaya",
+      "bijak",
+      "apa",
+      "uang",
+      "beliau",
+      "ekonomi",
+      "semua",
+      "tri",
+      "indonesia",
+      "baru"
+    ],
+    "count": 620
+  },
+  {
+    "id": 3,
+    "label": "TOPIC 03",
+    "keywords": [
+      "rokok",
+      "naik",
+      "cukai",
+      "purbaya",
+      "rakyat",
+      "gak",
+      "kalau",
+      "bukan",
+      "turun",
+      "kerja"
+    ],
+    "count": 351
+  },
+  {
+    "id": 4,
+    "label": "TOPIC 04",
+    "keywords": [
+      "uang",
+      "bank",
+      "buat",
+      "duit",
+      "usaha",
+      "masyarakat",
+      "judol",
+      "banyak",
+      "kerja",
+      "kredit"
+    ],
+    "count": 375
+  },
+  {
+    "id": 5,
+    "label": "TOPIC 05",
+    "keywords": [
+      "ekonomi",
+      "indonesia",
+      "rakyat",
+      "baik",
+      "purbaya",
+      "investor",
+      "negara",
+      "asing",
+      "banyak",
+      "buat"
+    ],
+    "count": 606
+  }
+]
